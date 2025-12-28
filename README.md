@@ -24,8 +24,8 @@
 
 ### 🛠️ Технологии и подходы
 
-- **Языки**: Python (FastAPI), SQL  
-- **Data**: Kafka
+- **Языки**: Python (FastAPI), SQL, C/C++, asm, bash
+- **Data**: Kafka, RMQ, Postgre
 - **Infra**: Docker, CI/CD (Jenkins)  
 - **Методы**: Event-driven architecture, Observability, SLO/SLI
 
