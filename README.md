@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Привет! Я Андрей — Technical Director
 
-<!--
-**andv/andv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Работаю с high-load системами, data pipelines и техническим лидерством в fintech.
 
-Here are some ideas to get you started:
+🔧 **Чем занимаюсь**:
+- Архитектура отказоустойчивых систем
+- Построение data platforms (ClickHouse, Redis, Kafka)
+- Снижение техдолга и внедрение quality gates
+- Управление командами 50–90+ инженеров
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Ищу**: Technical Director / Deputy CTO (remote)
+
+📩 **Связь**: [LinkedIn](https://www.linkedin.com/in/andreyklimov/) | Telegram: [@AndrVl](https://t.me/AndrVl)
