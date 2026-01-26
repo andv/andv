@@ -1,7 +1,7 @@
 <!-- andv/andv/README.md -->
 
 <h1 align="center">Привет, я Андрей 👋</h1>
-<h3 align="center">Technical Director | Архитектор high-load систем | Fintech & Digital Education</h3>
+<h3 align="center">Technical Director | Архитектор high-load систем | Fintech & Digital</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andreyklimov/">LinkedIn</a> •
